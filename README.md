@@ -17,4 +17,4 @@
 [PINGPONG-VIEW](https://github.com/polushan/pingpong-view)<br>
 [GATEWAY](https://github.com/polushan/gateway)<br>
 [DISCOVERY](https://github.com/polushan/discovery)<br>
-[CONFIG-SERVICE]
+[CONFIG-SERVICE](https://github.com/polushan/config-service)<br>
